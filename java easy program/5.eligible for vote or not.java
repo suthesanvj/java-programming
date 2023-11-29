@@ -1,5 +1,5 @@
 import java.util.Scanner;
- 4.eligible for vote or not.java
+eligible for vote or not.java
 public class VoteEligibility {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
